@@ -117,7 +117,7 @@ Future research directions include:
 
 If you use this project for academic research, please cite the original paper:
 
-Matos, V. L. R., Gomes, R. M., & Vila Nova, J. G. G. (2025). *Geração de mapas para jogos em 2D utilizando Redes Generativas Adversariais*. Trabalho de Conclusão de Curso, Centro Federal de Educação Tecnológica de Minas Gerais, Belo Horizonte, MG, Brasil.
+[TBD]
 
 ## License
 
@@ -128,4 +128,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
   * **Author**: Victor Le Roy Matos 
   * **Advisor**: Prof. Rogério Martins Gomes 
   * **Co-advisor**: Prof. João Gabriel Gama Vila Nova 
-  * This work was developed at the Departamento de Computação, CEFET-MG.
+  * This work was developed at the Departamento de Computação, CEFET-MG and published at the Brazilian Symposium on Computer Games and Digital Entertainment (SBGames).
