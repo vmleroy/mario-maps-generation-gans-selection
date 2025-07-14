@@ -70,36 +70,7 @@ The combination of the WGAN with the heuristic selection algorithm yielded signi
 
 ## How to Use
 
-1.  **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/vmleroy/mario-maps-generation-gans-selection.git
-    cd mario-maps-generation-gans-selection
-    ```
-
-2.  **Install dependencies:**
-    It is recommended to use a virtual environment.
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Train the WGAN:**
-    Run the training script to generate map fragments.
-
-    ```bash
-    python train_wgan.py
-    ```
-
-4.  **Run the Selection and Evaluation:**
-    Execute the main script to apply the selection algorithm and have the A\* agent build and validate the final maps.
-
-    ```bash
-    python generate_maps.py
-    ```
-
-5.  **View the results:**
-    The generated maps will be saved in the `output/maps` directory.
+Check `run_scripts.md`.
 
 -----
 
