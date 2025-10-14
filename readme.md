@@ -84,7 +84,22 @@ Future research directions include:
 
 If you use this project for academic research, please cite the original paper:
 
-[TBD]
+```
+@inproceedings{VLR_2D_Map_Generation,
+ author = {Victor Matos and Rogério Gomes and João Vila Nova},
+ title = {2D Map Generation for Games Using Generative Adversarial Networks},
+ booktitle = {Anais Estendidos do XXIV Simpósio Brasileiro de Jogos e Entretenimento Digital},
+ location = {Salvador/BA},
+ year = {2025},
+ keywords = {},
+ issn = {0000-0000},
+ pages = {31--37},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/sbgames_estendido.2025.8849},
+ url = {https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/37115}
+}
+```
 
 ## License
 
@@ -95,4 +110,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
   * **Author**: Victor Le Roy Matos 
   * **Advisor**: Prof. Rogério Martins Gomes 
   * **Co-advisor**: Prof. João Gabriel Gama Vila Nova 
-  * This work was developed at the Departamento de Computação, CEFET-MG and published at the Brazilian Symposium on Computer Games and Digital Entertainment (SBGames).
+  * This work was developed at the Departamento de Computação, CEFET-MG and published at the [Brazilian Symposium on Computer Games and Digital Entertainment (SBGames)](https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/37115).
